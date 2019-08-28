@@ -1,2 +1,2 @@
-# Studienf-hrer
+# Studienführer
 Studienführer der Biomedizinischen Studiengänge
