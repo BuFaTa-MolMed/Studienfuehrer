@@ -1,33 +1,31 @@
-Vorlage Studienführer
-==
 # Universität Musterstadt
 ## Infos zur Universität
 ### Institute und Fakultät
-- **An welcher Fakultät sind die Studiengänge angesiedelt?**
+- **An welcher Fakultät sind die Studiengänge angesiedelt?** <br>
 Antwort Antwort Antwort
-- **Welche Institute sind beteiligt?**
+- **Welche Institute sind beteiligt?** <br>
 Antwort Antwort Antwort
-- **Wie viele Studierende?**
+- **Wie viele Studierende?** <br>
 123
-- **Besondere Merkmale des Fachbereichs**
+- **Besondere Merkmale des Fachbereichs** <br>
 z.B. Exzellenzcluster, Institute (MPI, etc.), Kooperationen, ...
 
 ### Lehre & Forschung
-- **Wie wird man im Studium unterstützt?**
+- **Wie wird man im Studium unterstützt?** <br>
 Antwort Antwort Antwort
-- **Besteht die Möglichkeit zum praktischen Arbeiten im Labor? An welchen Techniken und Geräten kann man arbeiten?**
+- **Besteht die Möglichkeit zum praktischen Arbeiten im Labor? An welchen Techniken und Geräten kann man arbeiten?** <br>
 Antwort Antwort Antwort
-- **Gibt es eigene Bibliotheken und Lernräume?**
+- **Gibt es eigene Bibliotheken und Lernräume?** <br>
 Antwort Antwort Antwort
-- **Sind Auslandsaufenthalte möglich?**
+- **Sind Auslandsaufenthalte möglich?** <br>
 Antwort Antwort Antwort
 
 ### Fachschaft und Hochschulpolitik
-- **Wie ist die Fachschaft organisiert?**
+- **Wie ist die Fachschaft organisiert?** <br>
 Antwort Antwort Antwort
-- **Gibt es studentische Mitbestimmung am Institut und am Fachbereich?**
+- **Gibt es studentische Mitbestimmung am Institut und am Fachbereich?** <br>
 Antwort Antwort Antwort
-- **Wie gut sind die Interessen der Studierenden vertreten?**
+- **Wie gut sind die Interessen der Studierenden vertreten?** <br>
 Antwort Antwort Antwort
 
 :::success
@@ -52,11 +50,11 @@ An dieser Stelle wären ein paar Bilder von der Universität, der Stadt und den 
 * [Modulbeschreibungen auf der Webseite der Fachschaft](http://www.molbiomed.de/bachelor.html)
 
 ### Bewerbung
-- **Gibt es besondere Vorraussetzungen, um sich zu bewerben?**
+- **Gibt es besondere Vorraussetzungen, um sich zu bewerben?** <br>
 Antwort Antwort Antwort
-- **Gibt es Auswahlseminare?**
+- **Gibt es Auswahlseminare?** <br>
 Antwort Antwort Antwort
-- **Muss man sich persönlich einschreiben?**
+- **Muss man sich persönlich einschreiben?** <br>
 Antwort Antwort Antwort
 
 ### Aufbau
@@ -114,11 +112,11 @@ Antwort Antwort Antwort
 * [Modulbeschreibungen auf der Webseite der Fachschaft](http://www.molbiomed.de/bachelor.html)
 
 ### Bewerbung
-- **Gibt es besondere Vorraussetzungen, um sich zu bewerben?**
+- **Gibt es besondere Vorraussetzungen, um sich zu bewerben?** <br>
 Antwort Antwort Antwort
-- **Gibt es Auswahlseminare?**
+- **Gibt es Auswahlseminare?** <br>
 Antwort Antwort Antwort
-- **Muss man sich persönlich einschreiben?**
+- **Muss man sich persönlich einschreiben?** <br>
 Antwort Antwort Antwort
 
 ### Aufbau
