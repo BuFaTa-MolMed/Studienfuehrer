@@ -60,9 +60,9 @@ Antwort Antwort Antwort
 ### Aufbau
 #### 1. Semester
 - **Modul** (12 LP)
-*Anmerkung, z.B. zu Praktika*
+<br> *Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
-*Anmerkung, z.B. zu Praktika*
+<br> *Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
 - **Modul** (Zahl LP)
 
@@ -91,7 +91,7 @@ Antwort Antwort Antwort
 - **Modul** (Zahl LP)
 
 #### 6. Semester
-- **Bachelorarbeit** (Zahl LP)
+- **Bachelorarbeit** (Zahl LP) <br>
 *Wie lange? Vorraussetzungen? Was muss ich beachten? Was kann ich nicht machen? Kann ich diese auch außerhalb der Universität machen?*
 
 ## Studiengang 2 (Master)
@@ -122,9 +122,9 @@ Antwort Antwort Antwort
 ### Aufbau
 #### 1. Semester
 - **Modul** (12 LP)
-*Anmerkung, z.B. zu Praktika*
+<br> *Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
-*Anmerkung, z.B. zu Praktika*
+<br> *Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
 - **Modul** (Zahl LP)
 
@@ -141,5 +141,5 @@ Antwort Antwort Antwort
 - **Modul** (Zahl LP)
 
 #### 4. Semester
-- **Masterarbeit** (Zahl LP)
+- **Masterarbeit** (Zahl LP) <br>
 *Wie lange? Vorraussetzungen? Was muss ich beachten? Was kann ich nicht machen? Kann ich diese auch außerhalb der Universität machen?*
