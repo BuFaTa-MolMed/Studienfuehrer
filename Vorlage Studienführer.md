@@ -1,32 +1,49 @@
+Vorlage Studienführer
+==
 # Universität Musterstadt
+## Fachschaft
+### Über uns
+Hier bitte eine kleine Vorstellung der Fachschaft schreiben.
+### Kontaktadresse
+Fachschaft Molekulare Biomedizin
+Musterstraße 123
+Hauptturm im Musterschloss
+12345 Musterstadt
+
+### Links
+Eure Webseite, Facebook, Instagram, Email oder Kontaktformular
+
+### Aufgaben und Dienstleistungen
+Was tut eure Fachschaft, was bietet ihr an (insbesondere für Studienanfänger)
+
 ## Infos zur Universität
 ### Institute und Fakultät
 - **An welcher Fakultät sind die Studiengänge angesiedelt?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp] 
 - **Welche Institute sind beteiligt?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Wie viele Studierende?** <br>
-123
+123 <br>[nbsp]
 - **Besondere Merkmale des Fachbereichs** <br>
-z.B. Exzellenzcluster, Institute (MPI, etc.), Kooperationen, ...
+z.B. Exzellenzcluster, Institute (MPI, etc.), Kooperationen, ... <br>[nbsp]
 
 ### Lehre & Forschung
 - **Wie wird man im Studium unterstützt?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Besteht die Möglichkeit zum praktischen Arbeiten im Labor? An welchen Techniken und Geräten kann man arbeiten?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Gibt es eigene Bibliotheken und Lernräume?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Sind Auslandsaufenthalte möglich?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 
 ### Fachschaft und Hochschulpolitik
 - **Wie ist die Fachschaft organisiert?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Gibt es studentische Mitbestimmung am Institut und am Fachbereich?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Wie gut sind die Interessen der Studierenden vertreten?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 
 :::success
 An dieser Stelle wären ein paar Bilder von der Universität, der Stadt und den relevanten Instituten schön. Wenn ihr welche habt, ladet diese bitte im Google-Drive in einem Unterordner mit dem Namen eurer Stadt hoch. Achtet bitte darauf, dass die Bilder zur Nutzung freigegeben sind und kein Urheberrecht verletzt wird. :bowtie: 
@@ -51,18 +68,18 @@ An dieser Stelle wären ein paar Bilder von der Universität, der Stadt und den 
 
 ### Bewerbung
 - **Gibt es besondere Vorraussetzungen, um sich zu bewerben?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Gibt es Auswahlseminare?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Muss man sich persönlich einschreiben?** <br>
-Antwort Antwort Antwort
+Antwort hier einfügen und das da lassen: <br>[nbsp]
 
 ### Aufbau
 #### 1. Semester
 - **Modul** (12 LP)
-<br> *Anmerkung, z.B. zu Praktika*
+*Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
-<br> *Anmerkung, z.B. zu Praktika*
+*Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
 - **Modul** (Zahl LP)
 
@@ -91,7 +108,7 @@ Antwort Antwort Antwort
 - **Modul** (Zahl LP)
 
 #### 6. Semester
-- **Bachelorarbeit** (Zahl LP) <br>
+- **Bachelorarbeit** (Zahl LP)
 *Wie lange? Vorraussetzungen? Was muss ich beachten? Was kann ich nicht machen? Kann ich diese auch außerhalb der Universität machen?*
 
 ## Studiengang 2 (Master)
@@ -122,9 +139,9 @@ Antwort Antwort Antwort
 ### Aufbau
 #### 1. Semester
 - **Modul** (12 LP)
-<br> *Anmerkung, z.B. zu Praktika*
+*Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
-<br> *Anmerkung, z.B. zu Praktika*
+*Anmerkung, z.B. zu Praktika*
 - **Modul** (Zahl LP)
 - **Modul** (Zahl LP)
 
@@ -141,5 +158,5 @@ Antwort Antwort Antwort
 - **Modul** (Zahl LP)
 
 #### 4. Semester
-- **Masterarbeit** (Zahl LP) <br>
+- **Masterarbeit** (Zahl LP)
 *Wie lange? Vorraussetzungen? Was muss ich beachten? Was kann ich nicht machen? Kann ich diese auch außerhalb der Universität machen?*
