@@ -1,5 +1,5 @@
 # Rheinische Friedrich-Wilhelms Universität Bonn
-## Fachschaft
+## Fachschaft Molekulare Biomedizin
 ### Über uns
 Wir vertreten die Interessen der Studierenden aus den Studiengängen Molekulare Biomedizin (B.Sc.), Immunbiologie (M.Sc.), Biochemie (M.Sc.) sowie Medical Immunoscience and Infection (M.Sc.).
 
