@@ -5,10 +5,10 @@ Vorlage Studienführer
 ### Über uns
 Hier bitte eine kleine Vorstellung der Fachschaft schreiben.
 ### Kontaktadresse
-Fachschaft Molekulare Biomedizin
-Musterstraße 123
-Hauptturm im Musterschloss
-12345 Musterstadt
+Fachschaft Molekulare Biomedizin <br>
+Musterstraße 123 <br>
+Hauptturm im Musterschloss <br>
+12345 Musterstadt <br>
 
 ### Links
 Eure Webseite, Facebook, Instagram, Email oder Kontaktformular
@@ -19,7 +19,7 @@ Was tut eure Fachschaft, was bietet ihr an (insbesondere für Studienanfänger)
 ## Infos zur Universität
 ### Institute und Fakultät
 - **An welcher Fakultät sind die Studiengänge angesiedelt?** <br>
-Antwort hier einfügen und das da lassen: <br>[nbsp] 
+Antwort hier einfügen und das da lassen: <br> &nbsp? 
 - **Welche Institute sind beteiligt?** <br>
 Antwort hier einfügen und das da lassen: <br>[nbsp]
 - **Wie viele Studierende?** <br>
