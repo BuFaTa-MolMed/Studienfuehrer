@@ -35,7 +35,7 @@ Ja.
 - **Biophysics**(6 LP)<sup>+</sup><br>
 <sup>+</sup> *Beginnt bereits im Januar  im ersten Semester.*
 - **Introduction experimental animals and bioethics** (3 LP)
-- **Methods course II** (Zahl LP)
+- **Methods course II** (6 LP)
 - **Labrotation I** (12 LP)
 - **Insights in the workflow of life science companies** (3 LP)
 
